@@ -1,4 +1,4 @@
-## v1.1.0 updates & fixes:
+## v1.1.0 updates/changes:
   - Updated BLTouch Z offsets in firmware for Satsana duct
   
   - Set Z_Probe_Low_Point from -1.5 to 0
