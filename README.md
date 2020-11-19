@@ -1,5 +1,4 @@
-# flagship
-# Printer Changes and Upgrades
+# Printer Changes/Upgrades
 
 ### **Machine:** 
 - Creality Ender 3 Pro
